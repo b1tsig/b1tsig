@@ -38,9 +38,15 @@ I'm an undergraduate Computer Science student and researcher focused on abstract
 
 ### 📊 GitHub Stats
 
-<!-- Replace SEU_USERNAME with your GitHub username -->
+<br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=b1tsig\&show_icons=true\&hide_border=true)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1tsig&layout=compact&theme=dracula&hide_border=true&langs_count=6&hide=html,css,javascript,typescript,jupyter%20notebook,tex,shell" height="170" alt="Top Languages" />
+  
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=b1tsig&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+</div>
 
 ---
 
