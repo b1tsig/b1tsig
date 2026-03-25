@@ -10,10 +10,11 @@ I'm an undergraduate Computer Science student and researcher focused on abstract
 
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/cd/Oscilloscope_sine_wave.gif" width="100%" height="150" style="object-fit: cover; object-position: center;" alt="Oscilloscope Sine Wave" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/cd/Oscilloscope_sine_wave.gif" width="100%" height="140" style="object-fit: cover; object-position: center;" alt="Oscilloscope Sine Wave" />
 </div>
 
 <br>
+
 ---
 
 ### 🛠️ Technology Stack
