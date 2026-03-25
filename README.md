@@ -1,29 +1,49 @@
-achei um desse:
+# Hi, I'm b1tsig! 👋
 
-# Olá, eu sou o b1tsig! 👋
 
-Sou um estudante de ciência da computação focado na interseção entre Hardware e Software.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=If+you+found+this+profile...;...you+navigated+very+well..." alt="Typing SVG" />
+</a>
 
+
+I'm an undergraduate Computer Science student and researcher focused on abstract aspects of computing.
+
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/cd/Oscilloscope_sine_wave.gif" width="100%" height="150" style="object-fit: cover; object-position: center;" alt="Oscilloscope Sine Wave" />
+</div>
+
+<br>
 ---
 
-### 🛠️ Arsenal de Tecnologias
+### 🛠️ Technology Stack
 
 ### 🛠️ Hardware & RTL Design
-![Verilog](https://img.shields.io/badge/Verilog-B71C1C?style=for-the-badge&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1d3882?style=for-the-badge&logo=systemverilog&logoColor=white)
-![RTL Design](https://img.shields.io/badge/RTL_Design-4B0082?style=for-the-badge&logo=cpu&logoColor=white)
 
-### 💻 Programação
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-B71C1C?style=for-the-badge\&logo=verilog\&logoColor=white)
+![RTL Design](https://img.shields.io/badge/RTL_Design-4B0082?style=for-the-badge\&logo=cpu\&logoColor=white)
 
-### 📈 Simulação & Matemática
-![MATLAB](https://img.shields.io/badge/MATLAB-e66b00?style=for-the-badge&logo=mathworks&logoColor=white)
-![GNU Octave](https://img.shields.io/badge/GNU_Octave-076296?style=for-the-badge&logo=gnu-octave&logoColor=white)
+### 💻 Programming
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 📈 Simulation & Mathematics
+
+![MATLAB](https://img.shields.io/badge/MATLAB-e66b00?style=for-the-badge\&logo=mathworks\&logoColor=white)
+![GNU Octave](https://img.shields.io/badge/GNU_Octave-076296?style=for-the-badge\&logo=gnu-octave\&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
+<!-- Replace SEU_USERNAME with your GitHub username -->
 
-### 📫 Contato
+![Stats](https://github-readme-stats.vercel.app/api?username=b1tsig\&show_icons=true\&hide_border=true)
+
+---
+
+### 📫 Contact
+
+<!-- Add your contact links here (LinkedIn, email, etc.) -->
